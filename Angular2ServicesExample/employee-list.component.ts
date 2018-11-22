@@ -13,6 +13,7 @@ export class EmployeeListComponent {
     employees = [];
     constructor(private _employeeService: EmployeeService){}
     ngOnInit(){
-        this.employees = this._employeeService.getEmployee();
+        this._employeeService.getEmployees()
+        .subscribe(resEmployeeData => this.employees = resEmployeeData);
     }
 }

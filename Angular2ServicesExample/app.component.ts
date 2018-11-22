@@ -8,5 +8,5 @@ import { EmployeeService } from './employee.service';
   providers: [EmployeeService]
 })
 export class AppComponent {
-  title = 'Service Example';
+  title = 'Http and Observables Example';
 }
