@@ -1,0 +1,23 @@
+{"_id":{"$oid":"5bfbbb4395a4eabb35567069"},"id":1.0,"name":"Marty Grove","role":"Author","salary":26000.0}
+{"_id":{"$oid":"5bfbbb4395a4eabb3556706a"},"id":2.0,"name":"Corina Ruble","role":"System Administrator","salary":29000.0}
+{"_id":{"$oid":"5bfbbb4395a4eabb3556706b"},"id":3.0,"name":"Bao Pelletier","role":"Senior Software Engineer","salary":35000.0}
+{"_id":{"$oid":"5bfbbb4395a4eabb3556706c"},"id":4.0,"name":"Ricki Bown","role":"DBA","salary":27000.0}
+{"_id":{"$oid":"5bfbbb4395a4eabb3556706d"},"id":5.0,"name":"Francisco Kells","role":"Admin","salary":40000.0}
+{"_id":{"$oid":"5bfbbb4395a4eabb3556706e"},"id":6.0,"name":"Edelmira Paik","role":"Author","salary":31000.0}
+{"_id":{"$oid":"5bfbbb4395a4eabb3556706f"},"id":7.0,"name":"Heriberto Banas","role":"Trainee","salary":33000.0}
+{"_id":{"$oid":"5bfbbb4395a4eabb35567070"},"id":8.0,"name":"Reiko Dearman","role":"Senior Software Engineer","salary":30000.0}
+{"_id":{"$oid":"5bfbbb4395a4eabb35567071"},"id":9.0,"name":"Blanche Galante","role":"System Analyst","salary":40000.0}
+{"_id":{"$oid":"5bfbbb4395a4eabb35567072"},"id":10.0,"name":"Roosevelt Valdovinos","role":"Architect","salary":24000.0}
+{"_id":{"$oid":"5bfbbb4395a4eabb35567073"},"id":11.0,"name":"Claudette Rosenblatt","role":"Data Architect","salary":45000.0}
+{"_id":{"$oid":"5bfbbb4395a4eabb35567074"},"id":12.0,"name":"Mitzie Ong","role":"Data Architect","salary":27000.0}
+{"_id":{"$oid":"5bfbbb4395a4eabb35567075"},"id":13.0,"name":"Carolyn Licea","role":"Software Engineer","salary":38000.0}
+{"_id":{"$oid":"5bfbbb4395a4eabb35567076"},"id":14.0,"name":"Magdalena Real","role":"Admin","salary":33000.0}
+{"_id":{"$oid":"5bfbbb4395a4eabb35567077"},"id":15.0,"name":"Lizzie Youngquist","role":"Business Analyst","salary":21000.0}
+{"_id":{"$oid":"5bfbbb4395a4eabb35567078"},"id":16.0,"name":"Sarita Lombardo","role":"Trainee","salary":43000.0}
+{"_id":{"$oid":"5bfbbb4395a4eabb35567079"},"id":17.0,"name":"Hedy Litman","role":"Architect","salary":29000.0}
+{"_id":{"$oid":"5bfbbb4395a4eabb3556707a"},"id":18.0,"name":"Thanh Milan","role":"Data Architect","salary":40000.0}
+{"_id":{"$oid":"5bfbbb4395a4eabb3556707b"},"id":19.0,"name":"Nohemi Pineiro","role":"Author","salary":31000.0}
+{"_id":{"$oid":"5bfbbb4395a4eabb3556707c"},"id":20.0,"name":"Raphael Petrillo","role":"Designer","salary":27000.0}
+{"_id":{"$oid":"5bfbc0261d10b8216cada80a"},"name":"Michael Lee","role":"Architect","salary":"20000","__v":0}
+{"_id":{"$oid":"5bfeb3028a9a8920e0bf31bb"},"name":"Brain","role":"Solution Architect","salary":"3000000","__v":0}
+{"_id":{"$oid":"5bfeb4c38a9a8920e0bf31bc"},"name":"Brain","role":"Solution Architect","salary":"3000000","__v":0}
